@@ -1,0 +1,98 @@
+.navbar {
+    background-color: #333; /* Background color */
+    overflow: hidden;
+  }
+
+.social-icons {
+    font-size: 24px;
+    margin: 0 10px;
+}
+.product-card {
+    margin-bottom: 20px;
+}
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 50px 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 100px;
+}
+.signup-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 50px 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 100px;
+}
+.testimonial {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.testimonial-text {
+    font-size: 18px;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    color: #28a745;
+}
+.footer {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.social-icons {
+    font-size: 24px;
+    margin: 0 10px;
+    color: #1cc54c;
+}
+
+.company-details {
+    font-size: 16px;
+    margin-top: 10px;
+}
+.cart-table {
+    margin-top: 50px;
+}
+.navbar .container .nav-item a{
+    list-style: none;
+    text-decoration: none;
+}
+/* styles.css */
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.redirect-button {
+ 
+    padding: 5px 7px;
+    background-color: #198754;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    margin-top: -52px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.redirect-button:hover {
+    background-color: #45a049;
+}
+.copyright {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.love-symbol {
+    color: #e74c3c;
+    font-size: 18px;
+    margin-left: 5px;
+}
